@@ -1,0 +1,15 @@
+Package: wormbase
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: person("Daniel", "Cook", email = "Danielecook@gmail.com", role = c("aut", "cre"))
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+LazyData: TRUE
+Imports:
+    dplyr,
+    lubridate,
+    httr,
+    jsonlite,
+    base64enc
+Suggests: testthat
