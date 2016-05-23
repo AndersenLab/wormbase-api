@@ -12,4 +12,6 @@ Imports:
     httr,
     jsonlite,
     base64enc
-Suggests: testthat
+Suggests:
+    testthat
+RoxygenNote: 5.0.1
